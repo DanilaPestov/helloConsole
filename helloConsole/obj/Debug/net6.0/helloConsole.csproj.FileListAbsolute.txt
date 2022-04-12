@@ -1,0 +1,15 @@
+/Users/pest/Desktop/hello/helloConsole/bin/Debug/net6.0/helloConsole
+/Users/pest/Desktop/hello/helloConsole/bin/Debug/net6.0/helloConsole.deps.json
+/Users/pest/Desktop/hello/helloConsole/bin/Debug/net6.0/helloConsole.runtimeconfig.json
+/Users/pest/Desktop/hello/helloConsole/bin/Debug/net6.0/helloConsole.dll
+/Users/pest/Desktop/hello/helloConsole/bin/Debug/net6.0/ref/helloConsole.dll
+/Users/pest/Desktop/hello/helloConsole/bin/Debug/net6.0/helloConsole.pdb
+/Users/pest/Desktop/hello/helloConsole/obj/Debug/net6.0/helloConsole.csproj.AssemblyReference.cache
+/Users/pest/Desktop/hello/helloConsole/obj/Debug/net6.0/helloConsole.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pest/Desktop/hello/helloConsole/obj/Debug/net6.0/helloConsole.AssemblyInfoInputs.cache
+/Users/pest/Desktop/hello/helloConsole/obj/Debug/net6.0/helloConsole.AssemblyInfo.cs
+/Users/pest/Desktop/hello/helloConsole/obj/Debug/net6.0/helloConsole.csproj.CoreCompileInputs.cache
+/Users/pest/Desktop/hello/helloConsole/obj/Debug/net6.0/helloConsole.dll
+/Users/pest/Desktop/hello/helloConsole/obj/Debug/net6.0/ref/helloConsole.dll
+/Users/pest/Desktop/hello/helloConsole/obj/Debug/net6.0/helloConsole.pdb
+/Users/pest/Desktop/hello/helloConsole/obj/Debug/net6.0/helloConsole.genruntimeconfig.cache
